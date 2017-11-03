@@ -1,0 +1,18 @@
+{
+  "short_name": "Pancake Flip",
+  "name": "Pancake Flip",
+  "icons": [
+    {
+      "src": "/pancake-flip-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "pancake-flip.svg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
